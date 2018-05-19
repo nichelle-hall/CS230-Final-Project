@@ -45,7 +45,7 @@ from pycocotools.cocoeval import COCOeval
 from pycocotools import mask as maskUtils
 
 import zipfile
-import urllib.request
+import urllib
 import shutil
 
 from mrcnn.config import Config
